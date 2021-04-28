@@ -1,6 +1,6 @@
 # podcastr-next-js
 
-# Execute project
+# Helper
 
 * 1 - `yarn install`
 * 2 - `yarn server` 
